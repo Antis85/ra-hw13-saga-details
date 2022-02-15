@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/ra-hw13-saga-details/static/js/main.2bdb17c1.chunk.js",
+    "main.js.map": "/ra-hw13-saga-details/static/js/main.2bdb17c1.chunk.js.map",
+    "runtime-main.js": "/ra-hw13-saga-details/static/js/runtime-main.254eb9d9.js",
+    "runtime-main.js.map": "/ra-hw13-saga-details/static/js/runtime-main.254eb9d9.js.map",
+    "static/css/2.543f1d76.chunk.css": "/ra-hw13-saga-details/static/css/2.543f1d76.chunk.css",
+    "static/js/2.aaa99f1a.chunk.js": "/ra-hw13-saga-details/static/js/2.aaa99f1a.chunk.js",
+    "static/js/2.aaa99f1a.chunk.js.map": "/ra-hw13-saga-details/static/js/2.aaa99f1a.chunk.js.map",
+    "index.html": "/ra-hw13-saga-details/index.html",
+    "static/css/2.543f1d76.chunk.css.map": "/ra-hw13-saga-details/static/css/2.543f1d76.chunk.css.map",
+    "static/js/2.aaa99f1a.chunk.js.LICENSE.txt": "/ra-hw13-saga-details/static/js/2.aaa99f1a.chunk.js.LICENSE.txt",
+    "static/media/mcru-ajax-loader.6f9ac78c.gif": "/ra-hw13-saga-details/static/media/mcru-ajax-loader.6f9ac78c.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.254eb9d9.js",
+    "static/css/2.543f1d76.chunk.css",
+    "static/js/2.aaa99f1a.chunk.js",
+    "static/js/main.2bdb17c1.chunk.js"
+  ]
+}
